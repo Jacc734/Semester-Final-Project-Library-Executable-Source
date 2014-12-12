@@ -1,0 +1,5 @@
+Movie Title*Movie Format*
+Random Title*Random Format*Random Person*Random Day*
+Hello World*Java*
+New Title*New Format*New Person*New Day*
+Title of Awesome Story*DVD*
